@@ -357,7 +357,13 @@ p.button-next {
 
 
 
-
+#question-card {
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 div.interactive {
     width: 810px;
@@ -372,7 +378,7 @@ div.question {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: auto;
     height: 80px;
     background-color: rgba(255, 255, 255, 0.4);
     box-shadow: 1.5px 1.5px 8px rgb(0, 0, 0, 0.5);

@@ -359,7 +359,6 @@ p.button-next {
 
 #question-card {
     display: flex;
-    justify-content: center;
     padding: 1%;
     padding-top: 20px;
     padding-bottom: 20px;

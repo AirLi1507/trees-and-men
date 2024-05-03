@@ -511,3 +511,13 @@ button.corr {
     border-radius: 10px;
     font-size: 25px;
 }
+
+
+div.code-imgs {
+    width: 780px;
+    display: flex;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    overflow: scroll;
+    margin-top: 40px;
+}
